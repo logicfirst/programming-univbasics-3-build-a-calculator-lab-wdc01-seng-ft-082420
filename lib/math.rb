@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  calc_sum = math.sum(num1, num2)
+  calc_sum = num1 + num2
   calc_sum
 end
 
