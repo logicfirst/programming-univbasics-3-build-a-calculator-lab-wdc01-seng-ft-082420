@@ -12,13 +12,14 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-
+  calc_mult = num1 * num2
 end
 
 def modulo(num1, num2)
-
+  calc_mod = num1 % num2
 end
 
 def square_root(num)
-
+  calc_sqrrt = math.sqrt(num)
 end
+
